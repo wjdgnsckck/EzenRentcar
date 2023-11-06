@@ -1,0 +1,94 @@
+
+-- 포르쉐911 차량 삽입
+
+insert carprofile(bstate, pno, kno) values( 1, 1, 41);
+insert carprofile(bstate, pno, kno) values( 1, 2, 41);
+insert carprofile(bstate, pno, kno) values( 1, 5, 41);
+insert carprofile(bstate, pno, kno) values( 1, 6, 41);
+insert carprofile(bstate, pno, kno) values( 1, 7, 41);
+insert carprofile(bstate, pno, kno) values( 1, 9, 41);
+insert carprofile(bstate, pno, kno) values( 1, 10, 41);
+insert carprofile(bstate, pno, kno) values( 1, 22, 41);
+insert carprofile(bstate, pno, kno) values( 1, 30, 41);
+insert carprofile(bstate, pno, kno) values( 1, 31, 41);
+insert carprofile(bstate, pno, kno) values( 1, 36, 41);
+insert carprofile(bstate, pno, kno) values( 1, 39, 41);
+insert carprofile(bstate, pno, kno) values( 1, 40, 41);
+insert carprofile(bstate, pno, kno) values( 1, 43, 41);
+insert carprofile(bstate, pno, kno) values( 1, 48, 41);
+insert carprofile(bstate, pno, kno) values( 1, 64, 41);
+insert carprofile(bstate, pno, kno) values( 1, 68, 41);
+insert carprofile(bstate, pno, kno) values( 1, 70, 41);
+insert carprofile(bstate, pno, kno) values( 1, 72, 41);
+insert carprofile(bstate, pno, kno) values( 1, 73, 41);
+insert carprofile(bstate, pno, kno) values( 1, 78, 41);
+insert carprofile(bstate, pno, kno) values( 1, 79, 41);
+insert carprofile(bstate, pno, kno) values( 1, 82, 41);
+insert carprofile(bstate, pno, kno) values( 1, 92, 41);
+insert carprofile(bstate, pno, kno) values( 1, 96, 41);
+insert carprofile(bstate, pno, kno) values( 1, 103, 41);
+insert carprofile(bstate, pno, kno) values( 1, 81, 41);
+
+
+-- BMW-i7 차량 삽입
+
+insert carprofile(bstate, pno, kno) values( 1, 1, 42);
+insert carprofile(bstate, pno, kno) values( 1, 2, 42);
+insert carprofile(bstate, pno, kno) values( 1, 5, 42);
+insert carprofile(bstate, pno, kno) values( 1, 6, 42);
+insert carprofile(bstate, pno, kno) values( 1, 7, 42);
+insert carprofile(bstate, pno, kno) values( 1, 9, 42);
+insert carprofile(bstate, pno, kno) values( 1, 10, 42);
+insert carprofile(bstate, pno, kno) values( 1, 22, 42);
+insert carprofile(bstate, pno, kno) values( 1, 30, 42);
+insert carprofile(bstate, pno, kno) values( 1, 31, 42);
+insert carprofile(bstate, pno, kno) values( 1, 36, 42);
+insert carprofile(bstate, pno, kno) values( 1, 39, 42);
+insert carprofile(bstate, pno, kno) values( 1, 40, 42);
+insert carprofile(bstate, pno, kno) values( 1, 43, 42);
+insert carprofile(bstate, pno, kno) values( 1, 48, 42);
+insert carprofile(bstate, pno, kno) values( 1, 64, 42);
+insert carprofile(bstate, pno, kno) values( 1, 68, 42);
+insert carprofile(bstate, pno, kno) values( 1, 70, 42);
+insert carprofile(bstate, pno, kno) values( 1, 72, 42);
+insert carprofile(bstate, pno, kno) values( 1, 73, 42);
+insert carprofile(bstate, pno, kno) values( 1, 78, 42);
+insert carprofile(bstate, pno, kno) values( 1, 79, 42);
+insert carprofile(bstate, pno, kno) values( 1, 82, 42);
+insert carprofile(bstate, pno, kno) values( 1, 92, 42);
+insert carprofile(bstate, pno, kno) values( 1, 96, 42);
+insert carprofile(bstate, pno, kno) values( 1, 103, 42);
+insert carprofile(bstate, pno, kno) values( 1, 81, 42);
+
+
+
+-- 벤츠-S클래스 차량 삽입
+
+insert carprofile(bstate, pno, kno) values( 1, 1, 43);
+insert carprofile(bstate, pno, kno) values( 1, 2, 43);
+insert carprofile(bstate, pno, kno) values( 1, 5, 43);
+insert carprofile(bstate, pno, kno) values( 1, 6, 43);
+insert carprofile(bstate, pno, kno) values( 1, 7, 43);
+insert carprofile(bstate, pno, kno) values( 1, 9, 43);
+insert carprofile(bstate, pno, kno) values( 1, 10, 43);
+insert carprofile(bstate, pno, kno) values( 1, 22, 43);
+insert carprofile(bstate, pno, kno) values( 1, 30, 43);
+insert carprofile(bstate, pno, kno) values( 1, 31, 43);
+insert carprofile(bstate, pno, kno) values( 1, 36, 43);
+insert carprofile(bstate, pno, kno) values( 1, 39, 43);
+insert carprofile(bstate, pno, kno) values( 1, 40, 43);
+insert carprofile(bstate, pno, kno) values( 1, 43, 43);
+insert carprofile(bstate, pno, kno) values( 1, 48, 43);
+insert carprofile(bstate, pno, kno) values( 1, 64, 43);
+insert carprofile(bstate, pno, kno) values( 1, 68, 43);
+insert carprofile(bstate, pno, kno) values( 1, 70, 43);
+insert carprofile(bstate, pno, kno) values( 1, 72, 43);
+insert carprofile(bstate, pno, kno) values( 1, 73, 43);
+insert carprofile(bstate, pno, kno) values( 1, 78, 43);
+insert carprofile(bstate, pno, kno) values( 1, 79, 43);
+insert carprofile(bstate, pno, kno) values( 1, 82, 43);
+insert carprofile(bstate, pno, kno) values( 1, 92, 43);
+insert carprofile(bstate, pno, kno) values( 1, 96, 43);
+insert carprofile(bstate, pno, kno) values( 1, 103, 43);
+insert carprofile(bstate, pno, kno) values( 1, 81, 43);
+
